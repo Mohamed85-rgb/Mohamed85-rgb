@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed85-rgb
-- 👀 I’m interested in CyberSecurity,linux,Analysis. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CyberSecurity,SOC,Pentesting,Analysis. 
+- 🌱 I’m currently learning SOC and what's around it.
+- 💞️ I’m looking to work for Security Solutions companies.
 - 📫 How to reach me ...
 
 <!---
